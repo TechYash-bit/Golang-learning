@@ -38,7 +38,7 @@ func main() {
 Hello, World!
 ```
 
-![Hello World Output](program/image)
+![Hello World Output](https://github.com/TechYash-bit/Golang-learning/blob/main/program/image/Day1-hello.png)
 
 ---
 
