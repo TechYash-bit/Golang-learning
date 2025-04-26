@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Go Gopher](https://golang.org/doc/gopher/doc.png)
+![Go Gopher](https://github.com/TechYash-bit/Golang-learning/blob/main/program/image/golanglogo.png)
 
 *Documenting my progress learning the Go programming language*
 </div>
@@ -95,7 +95,7 @@ harne
 123.36
 ```
 
-![Variables Output](images/variables.png)
+![Variables Output](https://github.com/TechYash-bit/Golang-learning/blob/main/program/image/Screenshot%20(43).png)
 
 
 
