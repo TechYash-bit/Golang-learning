@@ -38,7 +38,7 @@ func main() {
 Hello, World!
 ```
 
-![Hello World Output](images/hello_world.png)
+![Hello World Output](C:\Users\acer\OneDrive\Desktop\Golang\program\image\Day1-hello.png)
 
 ---
 
