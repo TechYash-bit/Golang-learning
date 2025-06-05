@@ -142,6 +142,87 @@ harne
 
 
 
+Sure! Here's a simple but effective `README.md` file for your **Guessing Game in Go**:
+
+---
+
+````markdown
+# 🔢 Number Guessing Game in Go
+
+This is a basic terminal-based **number guessing game** written in the Go programming language. The program randomly selects a number between **1 and 100**, and the user must guess it. After each guess, the program gives feedback on whether the guess is too high or too low.
+
+## 🚀 Features
+
+- Generates a random number between 1 and 100
+- Interactive input via terminal
+- Feedback on guesses:
+  - Too high
+  - Too low
+  - Correct!
+- Loops until the correct number is guessed
+
+## 🛠️ How to Run
+
+Make sure you have **Go installed**. Then:
+
+```bash
+git clone https://github.com/TechYash-bit/Golang-learning.git
+cd Golang-learning/day12
+go run guess_game.go
+````
+
+## 📂 File Structure
+
+```
+Golang-learning/
+└── day12/
+    └── guess_game.go      # Main game logic
+    └── README.md          # Documentation file (this one)
+```
+
+## 🧠 Example Gameplay
+
+```text
+Welcome to this game
+I have chosen a number between 1 to 100
+can you guess this number
+Enter your guess:
+> 50
+you predict small number. target is such a big number
+
+Enter your guess:
+> 90
+you predict big number. target number is very low
+
+Enter your guess:
+> 75
+you guess correct number
+```
+
+## 📦 Requirements
+
+* Go 1.18 or above
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Feel free to enhance the game by:
+
+* Counting the number of attempts
+* Limiting the number of guesses
+* Adding difficulty levels
+
+Happy Coding! 😄
+
+
+
+
+
+
+
 **📝 Last Updated:** April 26, 2025
 
 🔍 **Follow my progress as I continue exploring Go!** 🔍
