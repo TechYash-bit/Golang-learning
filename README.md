@@ -139,11 +139,7 @@ harne
    - Save code to a `.go` file
    - Execute with `go run filename.go`
 
-3. **Add Screenshots**:
-   - Place screenshot images in the `/images` folder
-   - Reference with `![Description](images/filename.png)`
 
----
 
 
 **📝 Last Updated:** April 26, 2025
