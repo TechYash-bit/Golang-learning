@@ -175,8 +175,7 @@ go run guess_game.go
 
 ```
 Golang-learning/
-└── day12/
-    └── guess_game.go      # Main game logic
+└── guess_game.go
     └── README.md          # Documentation file (this one)
 ```
 
