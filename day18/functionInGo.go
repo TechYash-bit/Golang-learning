@@ -17,6 +17,10 @@ fmt.Println("calling function in function ")
 fact:=functionInFunction(5)
 fmt.Println(fact(2))
 
+func (){
+	fmt.Println("hello world")
+}
+
 }
 func sayHello(){
 	fmt.Println("hello world")
