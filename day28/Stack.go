@@ -29,10 +29,15 @@ func (s Stack[T]) display() {
 	}
 	fmt.Println()
 }
+func (s Stack[T]) peek() T{
+	top:=s.elements[len(s.elements)-1]
+	return top
+}
 
 func main() {
 
 	stack :=Stack[int]{}
 	stack.push(10)
 	stack.display()
+	fmt.Println(stack.peek()," this is an top element")
 }
